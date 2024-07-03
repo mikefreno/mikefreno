@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🎮 Currently working on game and AI dev 🤖
+
+[![Top Langs](https://github-readme-stats-git-main-mikefrenos-projects.vercel.app/api/top-langs/?username=mikefreno&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=botox_site,sycamore_hill,notekeeper-t3,github-readme-stats,My-Website,note-keeper-t3,react-native-draggable,github-readme-stats&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mikefreno/mikefreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
